@@ -11,7 +11,7 @@
 ## Technology Stack
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **Other Libraries**: OpenCV (optional for advanced features), pandas, and matplotlib for data visualization.
+
 
 ## How to Run Locally
 
@@ -49,26 +49,8 @@
 ├── README.md           # Documentation
 ```
 ## Contributors
-This project was developed with contributions from:
-**Pooja Gurnani**
-**Payal Chandile**
-
-## Contributing
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request on GitHub.
+- **Pooja Gurnani**
+- **Payal Chandile**
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

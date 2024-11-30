@@ -1,18 +1,12 @@
 
 # Health Tracker App
 
-![Health Tracker Logo](nutrition.png)
-
 **Health Tracker App** is a Streamlit-based web application designed to help users track their health-related activities, including **Nutrition**, **Fitness**, and **Sleep**. Built by **10xTechClub C2 Students**, this app aims to promote healthy living and simplify health management.
 
 ## Features
 - **Nutrition Tracker**: Log and monitor your daily nutritional intake.
 - **Fitness Tracker**: Track your fitness activities with options like Step Counter, Strava Integration, and Workout Planner.
 - **Sleep Tracker**: Keep track of your sleep patterns and ensure a good night's rest.
-
-## Demo
-### Main Dashboard
-![Dashboard](fitness.png)
 
 ## Technology Stack
 - **Frontend**: Streamlit
@@ -54,16 +48,10 @@
 ├── requirements.txt    # Dependencies
 ├── README.md           # Documentation
 ```
-
-## Screenshots
-### Nutrition Tracker
-![Nutrition Tracker](nutrition.png)
-
-### Fitness Tracker
-![Fitness Tracker](fitness.png)
-
-### Sleep Tracker
-![Sleep Tracker](sleeping.png)
+## Contributors
+This project was developed with contributions from:
+**Pooja Gurnani**
+**Payal Chandile**
 
 ## Contributing
 Contributions are welcome! Follow these steps:
@@ -85,15 +73,11 @@ Contributions are welcome! Follow these steps:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-- **10xTechClub C2 Students** for the idea and development.
-- [Streamlit](https://streamlit.io/) for providing a great platform to build data apps.
-
 ---
 
 ### Contact
 For queries or suggestions, feel free to reach out to:
-- **Email**: your-email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: payalchandile@gmail.com
+- **GitHub**: [payalChandile21](https://github.com/payalChandile21)
 
 ---

@@ -1,7 +1,7 @@
 
 # Health Tracker App
 
-**Health Tracker App** is a Streamlit-based web application designed to help users track their health-related activities, including **Nutrition**, **Fitness**, and **Sleep**. Built by **10xTechClub C2 Students**, this app aims to promote healthy living and simplify health management.
+**Health Tracker App** is a Streamlit-based web application designed to help users track their health-related activities, including **Nutrition**, **Fitness**, and **Sleep**.this app aims to promote healthy living and simplify health management.
 
 ## Features
 - **Nutrition Tracker**: Log and monitor your daily nutritional intake.
